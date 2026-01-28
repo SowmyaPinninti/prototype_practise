@@ -8,4 +8,6 @@ a vigilant broccoli is required
  git checkout
  git merge
  git commit
- git pushgit commit -a
+ git push
+ 
+ for second time commiting the same file just use git commit -a
